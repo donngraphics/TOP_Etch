@@ -1,0 +1,3 @@
+This is the The Odin's Project Etch-a-Sketch Project. This sounds impossible, and it might be where I finally falter and give up.
+The idea of this project is to create an "Etch-a-Sketch" like page using mainly Javascript, with the styling provided by CSS. HTML is really only used as a placeholder of sorts, with JS doing the heavy lifting.
+Somehow and someway, I have a lot of the project completed. I Feel like a failure having to use Google and a drop chatGPT because Flexbox is the bane of my existence (curse you flex-basis).
