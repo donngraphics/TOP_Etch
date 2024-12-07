@@ -9,18 +9,15 @@ html {
 
 .main {
     text-align: center;
-    /* background-color: rgb(2, 120, 246); */
 }
 
 .main h2 {
     margin-top: -8rem;
     font-size: 5rem;
-    /* color: rgb(233, 205, 29); */
     color: #ffdfbf;
 }
 
 .main h1 {
-    /* color: #ffdfbf; */
     color: #502701;
     font-size: 10rem;
 }
@@ -40,9 +37,7 @@ body {
 
     display: flex;
     gap: 5px;
-
     flex-wrap: wrap;
-
     height: 80vh;
     width: 80vw;
     background-color: rgb(4, 227, 252);
@@ -65,16 +60,11 @@ body {
 
 .divStyle {
 
-    flex: 1 1 calc(6.25% - 5px);
     background-color: rgb(2, 104, 116);
-    /* border: 5px solid blue; */
+
 }
 
 
 .hoverOver {
     background-color: #ffdfbf;
-}
-
-button:hover::after {
-    content: " BUT I DON' T WORK YET!";
 }
